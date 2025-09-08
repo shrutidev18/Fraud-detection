@@ -1,0 +1,42 @@
+# Datasets (large files)
+*.csv
+*.zip
+*.gz
+
+# Checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Colab/Google Drive temp
+*.swp
+*.bak
+*.tmp
+*.part
+*.crdownload
+
+# Model files
+*.h5
+*.pt
+*.joblib
+*.pkl
