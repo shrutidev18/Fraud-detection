@@ -78,7 +78,7 @@ Fraud-detection/
 │── README.md
 │── requirements.txt
 │── .gitignore
-│── notebook/
-│     └── Fraud_Detection_Mini_Project.ipynb
+│── Fraud_Detection_Mini_Project.ipynb
 │── reports/
-│     └── sample_results.png
+│   ├── Fraud_vs_Normal.png 
+│   └── Demo_Gradio.png  
